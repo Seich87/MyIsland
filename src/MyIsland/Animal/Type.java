@@ -1,0 +1,6 @@
+package MyIsland.Animal;
+
+public enum Type {
+    WOLF, BOA, FOX, BEAR, EAGLE, HORSE, DEER, RABBIT, MOUSE, GOAT, SHEEP, WILDBOAR, BUFFALO, DUCK, CATERPILLAR, PLANT;
+}
+
